@@ -1,6 +1,1 @@
-.
-..
-.git
-my_file.txt
-new_file.txt
-README.md
+yello
